@@ -1,30 +1,28 @@
+import "@/global.css"
 import { Tabs } from "expo-router";
-import {tabs} from "@/constants/data"
-import {colors, components} from "@/constants/theme"
-import {View} from "react-native";
+import { tabs } from "@/constants/data"
+import { colors, components } from "@/constants/theme"
+import { View } from "react-native";
 import clsx from "clsx";
-import {Image} from "react-native";
-import {useSafeAreaInsets} from "react-native-safe-area-context";
+import { Image } from 'expo-image'
+import { useSafeAreaInsets } from "react-native-safe-area-context";
 
 const tabBar = components.tabBar
 
+const TabIcon = ({focused, icon}: TabIconProps)=>{
+    return (
+        <View className={"size-12 items-center justify-center"}>
+            <View className={clsx("size-12 items-center justify-center rounded-full", focused && "bg-accent")}>
+                <Image source={icon} className="size-6" />
+            </View>
+        </View>
+    )
+}
+
 const TabLayout = () => {
     const insets = useSafeAreaInsets();
-    const TabIcon = ({focused, icon}: TabIconProps)=>{
-        return (
-            <View className={"tabs-icon"}>
-                <View className={clsx('tabs-pill', focused && 'tabs-active')}>
-                    <Image
-                            source={icon}
-                            className="tabs-glyph"
-                    />
-                </View>
-            </View>
-        )
-    }
     return (
-        <Tabs
-            screenOptions={{
+        <Tabs screenOptions={{
                 headerShown: false,
                 tabBarShowLabel: false,
                 tabBarStyle: {
@@ -38,12 +36,11 @@ const TabLayout = () => {
                     elevation: 0,
                 },
                 tabBarItemStyle: {
-                    paddingVertical: tabBar.height/2 - tabBar.iconFrame/1.6
+                    paddingVertical: tabBar.height / 2 - tabBar.iconFrame / 1.6
                 },
                 tabBarIconStyle: {
                     width: tabBar.iconFrame,
                     height: tabBar.iconFrame,
-                    // justifyContent: 'center',
                     alignItems: 'center',
                 }
             }}>
@@ -56,7 +53,7 @@ const TabLayout = () => {
                         options={{
                             title: tab.title,
                             tabBarIcon: ({focused})=>{
-                                return <TabIcon focused={focused} icon={tab.icon}/>
+                                return <TabIcon focused={focused} icon={tab.icon} />
                             }}
                         }
                     />
