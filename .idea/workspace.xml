@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1144fb1b-082b-41f1-a15a-e404f4d799a0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="119" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000045546922" />
+      <entry key="MS500" value="1.0228471285560983" />
+      <entry key="S2" value="2.029302413457619" />
+      <entry key="S5" value="6.060791774731288" />
+      <entry key="S10" value="13.44774567293778" />
+      <entry key="S30" value="28.86407013733431" />
+      <entry key="S60" value="36.44112972162263" />
+      <entry key="M2" value="41.9797427841075" />
+      <entry key="M5" value="47.054699943848455" />
+      <entry key="M10" value="49.755723606195474" />
+      <entry key="M15" value="51.15261486975459" />
+      <entry key="M30" value="54.75145911040596" />
+      <entry key="H1" value="68.67552118838346" />
+      <entry key="H2" value="114.96856084719687" />
+      <entry key="H4" value="199.58515802262764" />
+      <entry key="D1" value="387.037382659267" />
+      <entry key="W1" value="441.8872560862096" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.999110257057123E-148" />
+      <entry key="S2" value="1.1890748318525248E-37" />
+      <entry key="S5" value="1.6985708815666627E-15" />
+      <entry key="S10" value="4.121372200574294E-8" />
+      <entry key="S30" value="0.0034541984035988045" />
+      <entry key="S60" value="0.05877242950096718" />
+      <entry key="M2" value="0.24245392414519135" />
+      <entry key="M5" value="0.5814432163896003" />
+      <entry key="M10" value="0.8721662083582528" />
+      <entry key="M15" value="1.0751869413700703" />
+      <entry key="M30" value="1.6337055213024967" />
+      <entry key="H1" value="3.361995752909479" />
+      <entry key="H2" value="7.5361520288266775" />
+      <entry key="H4" value="13.72363483750481" />
+      <entry key="D1" value="25.346521974248983" />
+      <entry key="W1" value="28.44089113604359" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="8.244909918074527E-7" />
+      <entry key="MS500" value="0.06734179061632743" />
+      <entry key="S2" value="1.4088189967270386" />
+      <entry key="S5" value="5.71778638189242" />
+      <entry key="S10" value="13.24583007626037" />
+      <entry key="S30" value="28.78251035801086" />
+      <entry key="S60" value="36.44093009992803" />
+      <entry key="M2" value="42.16622389461595" />
+      <entry key="M5" value="47.59173844061432" />
+      <entry key="M10" value="50.595054704957406" />
+      <entry key="M15" value="52.20080600840245" />
+      <entry key="M30" value="56.36579265053474" />
+      <entry key="H1" value="72.02074587777798" />
+      <entry key="H2" value="122.48681129412304" />
+      <entry key="H4" value="213.29103481430514" />
+      <entry key="D1" value="412.37738271480544" />
+      <entry key="W1" value="470.32705746176316" />
+    </decayedShown>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3EOTKdIfw2zNCDbx9FchUmlRK1U" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev-glory&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/Web Projects/reculler_app&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\user\\Desktop\\Web Projects\\reculler_app\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\Web Projects\reculler_app\app\(tabs)" />
+      <recent name="C:\Users\user\Desktop\Web Projects\reculler_app\app" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.24374.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1144fb1b-082b-41f1-a15a-e404f4d799a0" name="Changes" comment="" />
+      <created>1780048562552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780048562552</updated>
+      <workItem from="1780048566492" duration="11081000" />
+      <workItem from="1780063953876" duration="52000" />
+      <workItem from="1780064207655" duration="5025000" />
+      <workItem from="1780153024807" duration="617000" />
+      <workItem from="1780250827569" duration="16785000" />
+      <workItem from="1780409306627" duration="56000" />
+      <workItem from="1780908051154" duration="4637000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
